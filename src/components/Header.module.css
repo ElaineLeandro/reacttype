@@ -1,0 +1,11 @@
+.header{
+  background: var(--gray-800);
+  display: flex;
+  justify-content: center;
+  padding: 1.25rem 0;
+}
+
+.header FlowerLotus {
+  height: 2rem;
+  margin: auto;
+}
